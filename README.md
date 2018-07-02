@@ -2,6 +2,14 @@
 
 > vue基本cli
 
+## author
+
+> xb
+
+## remark
+
+> 仅供个人脚手架使用
+
 ## Build Setup
 
 ``` bash
